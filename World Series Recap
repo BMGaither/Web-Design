@@ -1,0 +1,67 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>The wait is over</title>
+    <link rel="stylesheet" href="final.css">
+  </head>
+  <body>
+    <div class=" WorldSeries">
+    <h1>World Series 2016</h1>
+    </div>
+
+<div class="header fadein">
+  <p>
+    These two clubs waited a total of over 100 years to get back to the world series,
+    <br>but finally 2016 brought about to an end to not only their drought, but brought about<br>
+    one of the greatest world series in history.
+  </p>
+</div>
+<div class="Stadium">
+</div>
+<div class="overview">
+  <p>
+    A series lasting 7 games along with extra innings, what more could
+    <br>we ask for, whether you're a fan of the Cubs or the Indians, or a fan of the game period,<br>
+    there was one thing that we can all agree on, this series was a treat to watch and experience. Up and coming
+    stars putting on a great show for the the world to see, it was truly a battle of the best teams in basseball.
+  </p>
+</div>
+<div class="Team">
+</div>
+<div class="Cubs">
+  <p>
+    The cubs young studs from  Anthony Rizzo, Kris Bryant, Adsison Russell, Javier Baez, and Jason Heyward leading the charge, and some
+    very strong pitchering as well in John Lester, Kyle Hendricks, and the flamethrowing lefty Aroldis Chapman, it seemed as though the cubs were destinded to bring home the title.
+  </p>
+</div>
+<div class="Believeland">
+</div>
+<div class="Indians">
+  <p>
+    But on the opposing side, the Indians were no push over with their own set of young studs, with Fransico Lindor, Mike Napoli, Roberto Perez, Jason Kipnis, and Carlos Santana leading their powerhouse offense. Lets not also forget about the top duel bullpen combo in baseball with Andrew Miller, and Cody Allen paired with the reigning CY Young award winner leading the fired up pitching staff, Corey Kluber. In the heart of Believeland the Indians were looking to join the Cavs up in the history books.
+  </p>
+</div>
+<div class="Highlights">
+  <iframe src="https://www.youtube.com/embed/GqyKx13S5tw" frameborder="0" allowfullscreen=""></iframe>
+</div>
+<div class="History-made">
+  <p>
+    In a thrilling series it all came down to game seven everything was laid on the line and nothing was left unsaid, these two clubs put their sous into one last showdown against each other and it was a treat to see.
+  </p>
+</div>
+<div class="Champs">
+</div>
+<div class="Cubs-Win">
+  <p>
+    But through all the maddness and emotion there was a respected rivarly that grew between the two, and this will not be the only time we see these two teames, in the fall classic, and I can believe that the fans can't wait to see them back at it again.
+  </p>
+  <div class="This fadein">
+    <p>
+      To all the Cubs fans and non believers "This is Still Happening."
+    </p>
+  </div>
+</div>
+  
+
+</body>
+</html>
